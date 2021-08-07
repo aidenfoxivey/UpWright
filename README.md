@@ -1,4 +1,5 @@
-# UpWright Upright is a project made for XHacks '21. 
+# UpWright 
+Upright is a project made for XHacks '21. 
 
 ## What is UpWright?
 
@@ -47,4 +48,6 @@ Note that you can use regular nRF25LO1+ transceivers with PA/LNA functionality,
 but the cost is range dropping by a factor of about 10. 
 
 As for the software, you can download it all via this repository and then run
-it via the Arduino GUI or the CLI. 
+it via the Arduino GUI or the CLI.
+
+### Schematics:

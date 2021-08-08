@@ -1,4 +1,5 @@
 # UpWright 
+![GitHub](https://img.shields.io/github/license/Foxnaut/UpWright)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Foxnaut/UpWright) 
 Upright is a project made for XHacks '21. 
 
 ## What is UpWright?

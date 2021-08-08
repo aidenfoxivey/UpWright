@@ -21,15 +21,23 @@ void setup()
   
   //Set module as receiver
   radio.startListening();
+
+  pinMode(3, OUTPUT);
+  pinMode(2, OUTPUT);
 }
 
 void loop()
 {
+  digitalWrite(2, HIGH);
+  digitalWrite(3, LOW);
   //Read the data if available in buffer
   if (radio.available())
   {
     char text[32] = {0};
     radio.read(&text, sizeof(text));
     Serial.println(text);
+    digitalWrite(2, LOW);
+    digitalWrite(3, HIGH);
+    delay(5000);
   }
 }

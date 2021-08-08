@@ -1,6 +1,6 @@
 # UpWright 
 ![GitHub](https://img.shields.io/github/license/Foxnaut/UpWright)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Foxnaut/UpWright) 
-\\
+
 ## What is UpWright?
 
 UpWright is an Arduino-based fall detection system. Essentially, it started

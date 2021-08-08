@@ -1,7 +1,6 @@
 # UpWright 
 ![GitHub](https://img.shields.io/github/license/Foxnaut/UpWright)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Foxnaut/UpWright) 
-Upright is a project made for XHacks '21. 
-
+\\
 ## What is UpWright?
 
 UpWright is an Arduino-based fall detection system. Essentially, it started
@@ -52,3 +51,4 @@ As for the software, you can download it all via this repository and then run
 it via the Arduino GUI or the CLI.
 
 ### Schematics:
+![drawings of the boards](./docs/sketch.png)

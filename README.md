@@ -44,7 +44,7 @@ As it stands, here are the parts needed (aside from solder/wires):
 * 1 Arduino Nano
 * 1 Arduino Mega2560
 
-Note that you can use regular nRF25LO1+ transceivers with PA/LNA functionality,
+Note that you can use regular nRF25LO1+ transceivers without PA/LNA functionality,
 but the cost is range dropping by a factor of about 10. 
 
 As for the software, you can download it all via this repository and then run
